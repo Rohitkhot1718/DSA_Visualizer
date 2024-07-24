@@ -8,6 +8,7 @@ DSA Visualizer is a web application that helps visualize various data structures
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
+- [Preview](#preview)
 - [Developers](#developers)
 - [License](#license)
 
@@ -63,6 +64,9 @@ Contributions are welcome! Please fork the repository and create a pull request 
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Create a pull request
+
+## Preview
+- Click this link to preview the page https://rohitkhot1718.github.io/DSA_Visuali
 
 ## Developers
 
