@@ -8,6 +8,7 @@ DSA Visualizer is a web application that helps visualize various data structures
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
+- [Developers](#developers)
 - [License](#license)
 
 ## Installation
@@ -34,7 +35,7 @@ To run this project locally, follow these steps:
     ```bash
     node ./Chatbot/Server/server.js
     ```
-    - Run the server.js to get response from chatbot
+    - Run the `server.js` to get response from chatbot
 
 6. **Opening Webpage:**
     - Open the `form.html` and click the live server or preview the page.
