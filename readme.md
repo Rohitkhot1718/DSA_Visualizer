@@ -32,6 +32,9 @@ To run this project locally, follow these steps:
     ```
     - Open package.json and update dependencies.
 
+4. **API Key:**
+    - Open `server.js` and paste Google Generative AI API Key.
+
 5. **Start the server:**
     ```bash
     node ./Chatbot/Server/server.js
