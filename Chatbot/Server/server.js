@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
-const genAI = new GoogleGenerativeAI("AIzaSyDIswNW59isnxaxYFcElKZIn3IXtLdC7AI");
+const genAI = new GoogleGenerativeAI("GOOGLE_GENRATIVE_AI_API_KEY");
 
 app.post('/generate', async (req, res) => {
     const prompt = req.body.prompt;
